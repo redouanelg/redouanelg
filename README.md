@@ -6,9 +6,9 @@ I am interested in Machine learning for oceanic, atmospheric and climate science
 
 ### ML & Numerical modeling
 
-Currently, I am a postdoc at LSCE-IPSL (CEA Saclay) and LOCEAN-IPSL (Sorbonne Université) in Paris, France. I am investigating machine learning methods for numerical modeling with a focus on physical oceanography.
+Currently, I am a postdoc at LSCE-IPSL (CEA Saclay) and LOCEAN-IPSL (Sorbonne Université) in Paris, France. I am investigating machine learning methods for numerical modeling with a focus on physical oceanography. 
 
-### ML in Moroccan Darija
+### Outreach
 
 In my spare time, I make machine learning courses in Darija (Moroccan Arabic), check for example my recent collaboration with [Alfihrya Academy](https://github.com/Al-Fihriya-Academy/Machine-Learning).
 
