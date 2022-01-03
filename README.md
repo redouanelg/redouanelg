@@ -13,7 +13,7 @@ Currently, I am a postdoc at LSCE-IPSL (CEA Saclay) and LOCEAN-IPSL (Sorbonne Un
 In my spare time, I make machine learning courses in Darija (Moroccan Arabic), check for example my recent collaboration with [Alfihrya Academy](https://github.com/Al-Fihriya-Academy/Machine-Learning).
 
 ### How to connect with me:email:
- <code>[Mail](mailto:redouane.lguensat@locean.ipsl.fr)</code>    
+ <code>[Mail](mailto:redouane.lguensat@ipsl.fr)</code>    
  <code>[Twitter](https://twitter.com/redouanelg)</code>  
  <code>[LinkedIn](https://www.linkedin.com/in/redouane-lguensat/)</code>  
  
