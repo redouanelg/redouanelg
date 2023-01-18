@@ -20,6 +20,3 @@ In my spare time, I make machine learning courses in Darija (Moroccan Arabic), c
  <code>[Twitter](https://twitter.com/redouanelg)</code>  
  <code>[LinkedIn](https://www.linkedin.com/in/redouanelguensat/)</code>  
  
- 
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=redouanelg&show_icons=true&theme=default&include_all_commits=true&hide_rank=true&hide_titcle=true)
-
